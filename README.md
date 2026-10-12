@@ -1,4 +1,4 @@
-## Hi there 👋
+## i dont know how to code
 
 <!--
 **rumactavish/rumactavish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
