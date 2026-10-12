@@ -1,8 +1,5 @@
 
-
-
-
-## i dont know how to code
+<img width="1152" height="648" alt="Texto do seu parágrafo" src="https://github.com/user-attachments/assets/0000ee52-0c14-4625-b466-eea096d0b50e" />
 
 <img width="450" height="60" alt="blinkiesCafe-Yd" src="https://github.com/user-attachments/assets/2afdc801-d0c2-44d5-b978-e0d6c3c8bbdf" />
 
